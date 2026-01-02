@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
