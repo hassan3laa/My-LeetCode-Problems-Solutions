@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0636-exclusive-time-of-functions](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0636-exclusive-time-of-functions](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
