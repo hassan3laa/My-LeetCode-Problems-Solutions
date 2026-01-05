@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0383-ransom-note](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0415-add-strings) |
 ## Stack
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
