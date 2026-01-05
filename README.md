@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
@@ -94,8 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
+| [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0414-third-maximum-number) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
