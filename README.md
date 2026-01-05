@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
