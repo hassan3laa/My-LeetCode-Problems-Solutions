@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0029-divide-two-integers) |
 | [0415-add-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0415-add-strings) |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 ## Hash Table
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
