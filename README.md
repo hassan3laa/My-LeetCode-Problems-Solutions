@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0636-exclusive-time-of-functions](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
