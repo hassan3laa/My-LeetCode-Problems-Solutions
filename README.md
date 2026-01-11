@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0520-detect-capital) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Stack
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0476-number-complement) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
