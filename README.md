@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0541-reverse-string-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Linked List
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
