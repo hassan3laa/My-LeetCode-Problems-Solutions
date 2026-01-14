@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
 |  |
