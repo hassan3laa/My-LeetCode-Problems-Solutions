@@ -1,0 +1,11 @@
+class Solution {
+public:
+    int countPrimeSetBits(int left, int right) {
+        set<int>prime={2,3,5,7,11,13,17,19};
+        int ans=0;
+        for(int i=left;i<=right;i++){
+            if(prime.count(__builtin_popcount(i)))ans++;
+        }
+        return ans;
+    }
+};
