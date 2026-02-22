@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0476-number-complement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0868-binary-gap) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
