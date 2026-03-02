@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0739-daily-temperatures) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0761-special-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
