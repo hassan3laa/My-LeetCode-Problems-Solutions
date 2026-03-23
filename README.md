@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Counting
