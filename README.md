@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3453-separate-squares-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3453-separate-squares-i) |
 | [3701-compute-alternating-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
 | ------- |
