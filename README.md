@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0396-rotate-function](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0506-relative-ranks) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0029-divide-two-integers) |
+| [0396-rotate-function](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
