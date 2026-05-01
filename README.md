@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0866-prime-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0866-prime-palindrome) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -260,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
