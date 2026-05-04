@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0415-add-strings) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
