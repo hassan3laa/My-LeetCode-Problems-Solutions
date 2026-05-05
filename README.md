@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0541-reverse-string-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
