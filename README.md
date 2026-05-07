@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3453-separate-squares-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3453-separate-squares-i) |
+| [3660-jump-game-ix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3660-jump-game-ix) |
 | [3701-compute-alternating-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3660-jump-game-ix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3660-jump-game-ix) |
 ## Monotonic Stack
 |  |
 | ------- |
