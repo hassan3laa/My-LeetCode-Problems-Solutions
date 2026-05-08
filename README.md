@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0896-monotonic-array) |
+| [0942-di-string-match](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0696-count-binary-substrings) |
+| [0942-di-string-match](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1861-rotating-the-box](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0796-rotate-string) |
+| [0942-di-string-match](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Stack
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
