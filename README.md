@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1861-rotating-the-box](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1914-cyclically-rotating-a-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3701-compute-alternating-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Math
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Counting
 |  |
