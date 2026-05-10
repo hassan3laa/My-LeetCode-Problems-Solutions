@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3453-separate-squares-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3453-separate-squares-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3660-jump-game-ix) |
 ## Monotonic Stack
 |  |
