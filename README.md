@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0135-candy) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0290-word-pattern](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0383-ransom-note) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Queue
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0463-island-perimeter) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0463-island-perimeter) |
