@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0396-rotate-function) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0441-arranging-coins) |
 | [3453-separate-squares-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3453-separate-squares-i) |
