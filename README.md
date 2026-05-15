@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0041-first-missing-positive) |
 | [0290-word-pattern](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
