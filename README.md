@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Queue
