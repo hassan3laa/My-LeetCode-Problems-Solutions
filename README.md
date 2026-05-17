@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1306-jump-game-iii) |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0463-island-perimeter) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
