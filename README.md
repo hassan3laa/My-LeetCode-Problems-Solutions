@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1345-jump-game-iv) |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1345-jump-game-iv](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1345-jump-game-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
