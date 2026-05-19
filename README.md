@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Prefix Sum
 |  |
