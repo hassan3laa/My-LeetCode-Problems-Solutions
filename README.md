@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1861-rotating-the-box](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
