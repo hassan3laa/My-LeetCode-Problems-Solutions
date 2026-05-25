@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0761-special-binary-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0761-special-binary-string) |
 ## Two Pointers
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -396,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
