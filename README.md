@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0414-third-maximum-number) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0463-island-perimeter) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1861-rotating-the-box) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0463-island-perimeter) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0463-island-perimeter) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
