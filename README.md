@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3453-separate-squares-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3453-separate-squares-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3660-jump-game-ix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1871-jump-game-vii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Binary Search Tree
 |  |
 | ------- |
