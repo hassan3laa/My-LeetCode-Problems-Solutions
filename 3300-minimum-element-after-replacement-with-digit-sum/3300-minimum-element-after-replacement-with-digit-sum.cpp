@@ -10,10 +10,7 @@ public:
     }
     int minElement(vector<int>& nums) {
         for(int i=0;i<nums.size();i++) {
-            int c=digit(nums[i]);
-            if(c<nums[i]) {
-                nums[i]=c;
-            }
+            nums[i]=digit(nums[i]);
         }
         return *min_element(nums.begin(), nums.end());
     }
