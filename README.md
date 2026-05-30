@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3453-separate-squares-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0441-arranging-coins) |
 | [2540-minimum-common-value](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3161-block-placement-queries) |
 | [3453-separate-squares-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3453-separate-squares-i) |
 ## Divide and Conquer
 |  |
@@ -418,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
