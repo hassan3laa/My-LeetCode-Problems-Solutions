@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0942-di-string-match) |
+| [1189-maximum-number-of-balloons](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1871-jump-game-vii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1871-jump-game-vii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1189-maximum-number-of-balloons](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
