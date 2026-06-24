@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0866-prime-palindrome) |
 | [0976-largest-perimeter-triangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
