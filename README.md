@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3660-jump-game-ix) |
 | [3701-compute-alternating-sum](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0761-special-binary-string](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0761-special-binary-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1871-jump-game-vii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -441,8 +446,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
