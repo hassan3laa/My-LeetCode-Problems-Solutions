@@ -7,10 +7,10 @@ var arrayRankTransform = function(arr) {
     let mp=new Map();
     let rank=1;
     for(const x of sorted) {
-        if(!mp[x]) {
-            mp[x]=rank;
+        if(!mp.has(x)) {
+            mp.set(x,rank);
             rank++;
         }
     }
-    return arr.map(x=> mp[x]);
+    return arr.map(x=> mp.get(x));
 };
