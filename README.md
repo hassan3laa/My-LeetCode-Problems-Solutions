@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1345-jump-game-iv) |
 | [1390-four-divisors](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/2126-destroying-asteroids) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
