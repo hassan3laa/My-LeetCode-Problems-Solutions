@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0896-monotonic-array) |
 | [0942-di-string-match](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0788-rotated-digits) |
 | [0866-prime-palindrome](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -480,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hassan3laa/My-LeetCode-Problems-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
