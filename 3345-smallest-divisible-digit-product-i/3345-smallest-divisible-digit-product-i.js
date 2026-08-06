@@ -4,18 +4,14 @@
  * @return {number}
  */
 var smallestNumber = function(n, t) {
-    const check=(x)=>{
-        let ans=1;
-        while(x){
-            ans*=x%10;
-            x=Math.floor(x/10);
-        }
-        return ans;
+    let num=n;
+    let ans=1;
+    while(num){
+        ans*=num%10;
+        num=Math.floor(num/10);
     }
-    for(let i=n;i<=100;i++){
-        const x=check(i);
-        if(x%t==0) {
-            return i;
-        }
+    if(ans%t==0) {
+        return n;
     }
+    return smallestNumber(n+1,t);
 };
